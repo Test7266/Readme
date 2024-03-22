@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Test7266</h1>
-<h3 align="center">I'am Junior FiveM Dev</h3>
+<h3 align="center">I'am Webside Dev</h3>
 
-- 💻 I’m currently working on **FiveM Admin Menu**
+- 💻 I’m currently working on **Admin Portal**
 
-- 💻 I’m currently learning **Css**
+- 💻 I’m currently learning **js**
 
 - 👾 How to reach me **Dc:Test7266**
 
