@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Test7266</h1>
-<h3 align="center">I'am Escootee Dev</h3>
+<h3 align="center">I'am Escooter Dev</h3>
 <h3 align="center">📍Germany</h3>
 
-- 💻 I’m currently working on **Ninebot**
+- 💻 I’m currently working on **Ninebot G2D**
 
 - 👾 How to reach me **Dc:Test7266**
 
